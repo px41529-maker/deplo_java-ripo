@@ -1,1 +1,1 @@
-# deplo_java-ripo
+# JavaApplication_deploy
